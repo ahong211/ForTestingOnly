@@ -39,6 +39,7 @@ public class AndroidFlavorAdapter extends ArrayAdapter<AndroidFlavor> {
 //        TextView versionNumberView = (TextView) rootView.findViewById(R.id.list_item_version_number);
 //        versionNumberView.setText(androidFlavor.versionNumber);
 
+
         return rootView;
     }
 }
